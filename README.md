@@ -1,3 +1,4 @@
+## I'm a Environmental engineer From Venezuela, lover of GIS, GIS Developer and Teacher!!
 - 👋 Hi, I’m Luis Eduardo Pérez Graterol @luisCartoGeo, I live in Venezuela, passionate about GIS since the beginning of my professional life, I have been a blogger (mundocartogeo.blogspot.com--detained--, acolita.com, 
  in my linkedin in/luisedpg/), teacher at Universidad de los Llanos, instructor at Udemy https://www.udemy.com/user/e12ef063-2e2a-46f9-b5f1-7d26b1048cd1/. Environmental consultant, inspector of agricultural and livestock farms.
  Active at gis.stackexchange.com /users/165771/luis-perez
@@ -30,6 +31,20 @@
 <br />
 
 ---
+### 📕 Latest Project
+[Plugin to build Dashboards in QGIS3](https://github.com/luisCartoGeo/QGIS_Dashboard/tree/master)
+<br />
+<br />
+
+---
+### 📕 Latest Articles
+<!-- BLOG-POST-LIST:START -->
+- [Progress of the QGIS Dashboard Plugin](https://www.linkedin.com/pulse/progress-qgis-dashboard-plugin-luis-eduardo-perez-graterol/)
+- [Forms in QGIS. Dynamic update and behavior of spatial entities](https://www.linkedin.com/pulse/forms-qgis-dynamic-update-behavior-spatial-entities-perez-graterol/)
+- [Forms in QGIS, a treasure unexplored](https://www.linkedin.com/pulse/forms-qgis-treasure-unexplored-luis-eduardo-perez-graterol/)
+- [Performance of Spatial Queries in QGIS, Part One](https://www.linkedin.com/pulse/performance-spatial-queries-qgis-part-one-luis-eduardo-perez-graterol/)
+- [Más allá de los SIG. ¿Un profesional de las ciencias geográficas debe aprender a programar?](https://www.linkedin.com/pulse/m%C3%A1s-all%C3%A1-de-los-sig-un-profesional-las-ciencias-debe-perez-graterol/)
+<!-- BLOG-POST-LIST:END -->
 <!---
 luisCartoGeo/luisCartoGeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
