@@ -4,9 +4,9 @@
  Active at gis.stackexchange.com /users/165771/luis-perez
  Returning to GIS programming with Python in QGIS (PyQGIS), with various projects such as the QGIS Dashboards plugin and Raster Data Analysis. 
 - 👀 I’m interested in in everything related to the geospatial field with open source technologies, especially QGIS, Grass, SAGA, and languages like Python, Javascript, etc.
-- 🌱 I’m currently learning to program with Python, PyQGIS
-- 💞️ I’m looking to collaborate sharing articles, ideas and my development projects
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 Development of QGIS Plugins for raster and/or vector processes with Python, PyQt, Javascript, PyQGIS
+- 💞️ Development of automations in ArcGIS Pro and ArcMap using Python and ArcPy (Script tools)
+- 👯 I’m looking to collaborate sharing articles, ideas and my development projects and with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 You can contact me through my networks, especially linkedin  in/luisedpg/ and twitter @Luiseperezg.  Or write me at luis3176@yahoo.com
 
